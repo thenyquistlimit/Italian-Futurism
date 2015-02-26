@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="android:Theme.Material.Light.DarkActionBar">
+        <!-- API 21 theme customizations can go here. -->
+        <!-- Main theme colors -->
+        <!--   your app branding color for the app bar -->
+        <item name="android:colorPrimary">@color/primary_color</item>
+        <!--   darker variant for the status bar and contextual app bars -->
+        <item name="android:colorPrimaryDark">@color/primary_dark_color</item>
+        <!--   status bar color -->
+        <item name="android:statusBarColor">@color/primary_dark_color</item>
+
+    </style>
+
+    <style name="ActionBar" parent="android:Widget.ActionBar">
+        <item name="android:background">@color/primary_color</item>
+        <item name="android:icon">@android:color/transparent</item>
+        <item name="android:titleTextStyle">@color/white</item>
+    </style>
+
+    <style name="ActionBar.TitleText" parent="android:TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+</resources>

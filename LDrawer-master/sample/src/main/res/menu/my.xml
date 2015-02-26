@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/action_websearch"
+    android:title="@string/action_websearch"
+    android:icon="@drawable/action_search"
+    android:showAsAction="collapseActionView|ifRoom"
+    android:orderInCategory="3"/>
+
+    <item android:id="@+id/action_map"
+        android:title="@string/action_map"
+        android:icon="@drawable/ic_map_white_36dp"
+        android:showAsAction="collapseActionView|ifRoom"
+        android:orderInCategory="2"/>
+
+</menu>

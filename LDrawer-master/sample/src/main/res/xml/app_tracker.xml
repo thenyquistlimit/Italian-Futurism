@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="TypographyDashes">
+
+    <!-- The apps Analytics Tracking Id -->
+    <string name="ga_trackingId">UA-59581954-1</string>
+
+    <!-- Percentage of events to include in reports -->
+    <string name="ga_sampleFrequency">100.0</string>
+
+    <!-- catch and report uncaught exceptions from the app -->
+    <bool name="ga_reportUncaughtExceptions">true</bool>
+
+    <!-- How long a session exists before giving up -->
+    <integer name="ga_sessionTimeout">-1</integer>
+
+    <!-- Enable automatic Activity measurement -->
+    <bool name="ga_autoActivityTracking">true</bool>
+
+    <!-- The screen names that will appear in reports -->
+    <screenName name="com.ikimuhendis.ldrawer.sample.SampleActivity">
+        MyApplication Main App Thread
+    </screenName>
+
+    <screenName name="com.ikimuhendis.ldrawer.sample.MapActivity">
+        MyApplication Futurist Map
+    </screenName>
+
+    <screenName name="com.ikimuhendis.ldrawer.sample.ItalianFrag">
+        MyApplication Italian Futurism
+    </screenName>
+
+    <screenName name="com.ikimuhendis.ldrawer.sample.FillipoFrag">
+        MyApplication Fillipo T. Marinetti
+    </screenName>
+
+    <screenName name="com.ikimuhendis.ldrawer.sample.UmbertoFrag">
+        MyApplication Umberto Boccioni
+    </screenName>
+
+    <screenName name="com.ikimuhendis.ldrawer.sample.LuigiFrag">
+        MyApplication Luigi Russolo
+    </screenName>
+
+    <screenName name="com.ikimuhendis.ldrawer.sample.AntonioFrag">
+        MyApplication Antonio Sant'Elia
+    </screenName>
+
+    <screenName name="com.ikimuhendis.ldrawer.sample.GinoFrag">
+        MyApplication Gino Severini
+    </screenName>
+
+    <screenName name="com.ikimuhendis.ldrawer.sample.GiocomoFrag">
+        MyApplication Giocomo Balla
+    </screenName>
+
+    <screenName name="com.ikimuhendis.ldrawer.sample.BrunoMFrag">
+        MyApplication Bruno Munari
+    </screenName>
+
+    <screenName name="com.ikimuhendis.ldrawer.sample.BenedettaFrag">
+        MyApplication Benedetta Cappa
+    </screenName>
+
+    <screenName name="com.ikimuhendis.ldrawer.sample.CarloFrag">
+        MyApplication Carlo Carra
+    </screenName>
+
+    <screenName name="com.ikimuhendis.ldrawer.sample.FrancescoFrag">
+        MyApplication Francesco B. Pratella
+    </screenName>
+
+    <screenName name="com.ikimuhendis.ldrawer.sample.FortunatoFrag">
+        MyApplication Fortunato Depero
+    </screenName>
+
+    <screenName name="com.ikimuhendis.ldrawer.sample.BrunoCFrag">
+        MyApplication Bruno Corra
+    </screenName>
+
+</resources>

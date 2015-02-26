@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_description">Android drawer icon with material design animation</string>
+    <string name="drawer_open">drawer_open</string>
+    <string name="drawer_close">drawer_close</string>
+    <string name="app_name">Italian Futurism</string>
+    <string name="action_settings">Settings</string>
+    <string name="profile_background" />
+    <string name="profile_pic" />
+    <string name="fillipobio">
+
+        Filippo Tommaso Emilio Marinetti was born on the 22nd of December 1876 in Alexandria Egypt. Marinetti is known best for being one of the
+        founding members of The Futurist Movement and as the author of the Futurist Manifesto, which was published in French daily newspaper, Le Figaro
+        on the 20th of February 1909.\n \n
+
+        This manifesto proclaimed a new kind of poetry, exalting the love of danger, aggression, speed and war (‘the war’s only hygiene’) and the excitement of
+        great crowds, revolutions, industry and technology. Marinetti urged the destruction of museums, libraries and academies. His ideas were extended to
+        figurative art in the Manifesto dei pittori futuristi (1910), signed by Giacomo Balla, Umberto Boccioni, Carlo Carrà, Luigi Russolo and Gino Severini.
+        In 1910 the manifestos were declaimed in riotous soirées throughout Italy.\n \n
+
+        His Futurist theories developed to cover areas other than literature and the visual arts: for example in 1914 he organized a series of conferences in London launching the manifesto Abbasso il tango e Parsifal condemning two dance styles that he considered decadent and degenerate.
+        As well as dance, Marinetti\’s ideas concerned music, drama, film and such applied arts as industrial and graphic design, ceramics, textiles, bookbinding
+        and metalwork. He also himself experimented with the plastic arts, for example in the Self-portrait (Dynamic Combination of Objects) (priv. col., see
+        Belloli, 1982, p. 86), made of polychrome woods, matchboxes, various brushes and a grey silk handkerchief, hung from the centre of the main ceiling of the
+        Doré Gallery in London in 1914.\n \n
+
+        In the late 1920s and 1930s Marinetti supported the phase of Futurist painting known as Aeropittura. He himself practised and theorized about
+        \‘aeropoesia\’, poetry concerned with the sensation and speed of flight. In 1933 he produced Futurist Words in Freedom/Tactile, Thermic, Olefactory,
+        printed in coloured lithographs on metallic panels as pages of the Libro di latta aggressivo e contundente (1933), the world\’s first experimental
+        object–book of poetry, produced by the Lito-latta Nosenzo of Savona.\n \n
+
+        On 20 July 1942 he enrolled as a volunteer at the Russian Front, fighting in the battles of the Don, but was repatriated through illness after four
+        months. In September 1944 in Venice, convalescing after an operation brought about by war fatigue, he gave to the Futurist painter and writer Giovanni
+        Acquaviva (1900–72) his last Futurist manifesto La Patriarte (International Institute of Studies in Futurism, Milan, unpubd), in which he proposed an
+        art of renewed expressive synthesis. In October 1944 he moved to Bellagio di Como where he was appointed keeper of the archives of the disbanded
+        Accademia d\’Italia and died soon after.\n \n
+
+        [1] Easton, E., W. (1981), \'Marinetti before the First Manifesto\', Art Journal, 4(41), 313-316. \n \n
+        [2] Vinall S., W. (1980) \'Marinetti and the English Contributors to Poesia\', The Modern Language Review, 3(75), 547-560. \n \n
+        [3] Ceroni, V. (1944) \'When Future Met It\'s Past (The Futurism of Fillipo T. Marinetti)\', The Modern Language Journal, 8(28), 665-673.
+
+</string>
+
+    <string name="umbertobio">
+
+        Umberto Boccioni was born in Reggio di Calabria on the 19th October 1882. He was an influential painter and sculptor and helped shape the revolutionary aesthetic of The
+        Futurist Movement. His approach to dynamism of form and the deconstruction of solid mass guided artists long after his death.\n \n
+
+        [1] In all he had lived only thirty-four years. His devotion to literature and painting led him to Rome where, from 1892 until 1902. he worked in the
+        studio of Giacomo Balla. a radical painter, then known as a divisionist.\n \n
+
+        [2] Boccioni believed that scientific advances and the experience of modernity demanded that the artist abandon the tradition of depicting static,
+        legible objects. The challenge, he believed, was to represent movement, the experience of flux, and the inter-penetration of objects. Boccioni
+        summed up this project with the phrase, "physical transcendentalism."\n \n
+
+        Boccioni\’s first major Futurist painting, Riot in the Gallery (1909), remained close to Pointillism and showed an affiliation with Futurism mainly in
+        its violent subject matter and dynamic composition. The City Rises (1910–11), however, is an exemplary Futurist painting in its representation of
+        dynamism, motion, and speed.\n \n
+
+        Boccioni was probably influenced by Cubism in 1911–12, and about this time he also became interested in sculpture. In 1912 he published the “Manifesto
+        of Futurist Sculpture,” several of whose suggestions anticipated developments in modern sculpture. Boccioni advocated the use in sculpture of
+        non-traditional materials such as glass, wood, cement, cloth, and electric lights, and he called for the combination of a variety of materials in one
+        piece of sculpture.\n \n
+
+        Boccioni enlisted in the army during World War I and was killed by a fall from a horse in 1916. He was the most talented of the Futurist artists, and
+        his untimely death marked the virtual end of the movement.\n \n
+
+        [2] Although the Futurist movement is most associated with its founder, Filippo Tommaso Marinetti, its artistic direction owes much to Umberto Boccioni.
+        He is responsible for producing the seminal texts on Futurist art, and was by and large the movement\'s most talented, technically proficient, and best
+        educated artist. Despite the brevity of his career, he became a prolific student of avant-garde styles, while simultaneously striving to create
+        something entirely novel: an art that uniquely expressed the speed, dynamism and tragedy of modern-day life.\n \n
+
+        [1] Edwards, H. (1958), \'Umberto Boccioni\', The Art Institute of Chicago Quarterly, 2(52), 25-28.\n \n
+        [2] The Art Story.org (?), Umberto Boccioni [online], available: http://bit.ly/XA7woS, [accessed 4th August 2014].
+
+    </string>
+
+    <string name="luigibio">
+
+        Luigi Russolo was born on the 30th of April 1883. He was an Italian Futurist painter and composer, and the author of the manifesto The Art of
+        Noises (1913). Russolo moved to Milan at the age of 16, although not enrolled at the Accademia di Bera he was often found in attendance and it was
+        here in 1900 that the administration for the collection of modern painting started. This would act as an early influence for a young artist eager to
+        find a contemporary style. \n \n
+
+        [1] Russolo\’s imporant paintings include \'Music\', \'The Revolt\' and \'A Solidity of Fog\'. The revolt can be seen to encompass many of the futurist ideals.
+        An all male crowd in rebellion at great speed in an urban environment. The painting could be categorized as Cubist, however it could also be seen to
+        encompass the influences of Anton Giulio Bragaglia\'s photo-dynamism. Described in his article Futurist Photodynamism in Lacerba (Florence) July 1,
+        1913 as \"an infinitesimal calculation of movement\". \n \n
+
+        The Futurist Manifesto written by Billal Pratella in 1910 could be accredited to a change in direction for Russolo from painting to music. Russolo\’s
+        epiphany came to him while he was attending the Constanzi Theatre in Rome listening to a futurist music performance. His concepts were a direct result
+        of the performances of the Futurist musicians of that time.  He penned his thoughts, addressed to Balila Pratella, in a manifesto which was to be known
+        as the Art of Noise.\n \n
+
+        He felt his new concept required new instruments, a new orchestra and a new philosophy on music in general.[2] To this end both he and his accomplice
+        Ugo Piatti worked day and night to create Intonarumori (Noise Makers) which would be befitting instruments for a new futurist orchestra and create the
+        noises envisioned in the futurist manifesto.\n \n
+
+        A performance of his Gran Concerto Futuristico (1917) was met with strong disapproval and violence from the audience, as Russolo himself had predicted.
+        [2] None of his intoning devices have survived, though recently some have been reconstructed and used in performances. Although Russolo\'s works bear
+        little resemblance to modern noise music, his pioneering creations cannot be overlooked as an essential stage in the evolution of the several genres
+        in this category.\n \n
+
+        Russolo died on the 4th of February 1947 in Cerro di Laveno, Lake Maggiore. leaving a legacy that would only come to fruition in the later part of the
+        20th century and beyond.\n \n
+
+        [1] Chilvers, I. (2012), \'Luigi Russolo\', The Oxford Dictionary of Art and Artists, Oxford University Press. \n \n
+        [2] Brown, B. (1982), \'The Noise Instruments of Luigi Russolo\', Perspectives of New Music, 1/2(20), 31-48.
+
+    </string>
+
+    <string name="antoniobio">
+
+        [1] Antonio Sant\'Elia was born on the 30th of April 1888 in Como, Italy. He was an Italian architect notable for his visionary drawings of the city of
+        the future. In 1912 he began practicing architecture in Milan, where he became involved with the Futurist movement.\n \n
+
+        [1] Between 1912 and 1914 he made many highly imaginative drawings and plans for cities of the future. A group of these drawings called Città Nuova
+        (“New City”) was displayed in May 1914 at an exhibition of the Nuove Tendenze group, of which he was a member. Although Sant \'Elia\'s ideas were
+        Futuristic, it has been questioned whether he was actually a member of the group. Essentially he was a socialist who felt that a complete break
+        with architectural styles of the past and historic solutions to urban design was needed.\n \n
+
+        In 1914 Antonio signed the "Manifesto of Futurist Architecture", the year he met Marinetti. The Futurists had been railing against the anachronism
+        of the museum cities for five years before they found an architect to realize their visions. All of Sant\'Elia\'s projects were purely visionary as
+        no futurist building was ever built.\n \n
+
+        Excerpt From Manifesto of Futurist Architecture: \n \n
+
+        No architecture has existed since 1700. A moronic mixture of the most various stylistic elements used to mask the skeletons of modern houses is
+        called modern architecture. The new beauty of cement and iron are profaned by the superimposition of motley decorative incrustations that cannot
+        be justified either by constructive necessity or by our (modern) taste, and whose origins are in Egyptian, Indian or Byzantine antiquity and in
+        that idiotic flowering of stupidity and impotence that took the name of neoclassicism.\n \n
+
+        The hundreds of Sant\'Elia\'s drawings that have survived depict various aspects and vistas of a highly mechanized and industrialized city, with
+        skyscrapers and multilevel traffic circulation. A collection of these drawings is on permanent exhibition at Villa Olmo, near Como.\n \n
+
+        Sant\'Elia volunteered for army duty shortly after the outbreak of World War I, and he died in the battle of Monfalcone. \n \n
+
+        [1] Encyclopedia Britannica (2014), Antonia Sant\'Elia [online], available: http://bit.ly/1sg67fQ [accessed: 20 August 2014].
+
+    </string>
+    <string name="ginobio">
+
+        Gino Severini was born on the 7th of April 1882 in Cortona Italy. He was an Italian painter who synthesized the styles of Futurism and Cubism.
+        Severini began his painting career in 1900 as a student of Giacomo Balla, an Italian pointillist painter who later became a prominent Futurist.\n \n
+
+        Stimulated by Balla\'s account of the new painting in France, Severini moved to Paris in 1906 and met leading members of the French avant-garde,
+        such as the Cubist painters Georges Braque and Pablo Picasso and the writer Guillaume Apollinaire. Severini continued to work in the pointillist
+        manner—an approach that entailed applying dots of contrasting colours according to principles of optical science—until 1910, when his signature was
+        added to the Futurist painters’ manifesto.\n \n
+
+        [1] Letters between Servini and Marinetti support the fact that Servini was actually in Paris at the time of the Manifesto but unequivocally
+        supported it\'s content and seemed particularly pleased that Balla was a co-signatory. \n \n
+
+        The Futurists wanted to revitalize Italian art (and, as a consequence, all of Italian culture) by depicting the speed and dynamism of modern life.
+        Severini shared this artistic interest, but his work did not contain the political overtones typical of Futurism. Whereas Futurists typically painted
+        moving cars or machines, Severini usually portrayed the human figure as the source of energetic motion in his paintings. \n \n
+
+        Only briefly, in wartime works such as Red Cross Train Passing a Village (1914), did Severini paint subjects that conformed to the Futurist
+        glorification of war and mechanized power. [1] These series of War paintings culminated in the well known The Armoured Train in Action from 1915. \n \n
+
+        Severini published a book, Du cubisme au classicisme (1921; “From Cubism to Classicism”), in which
+        he discussed his theories about the rules of composition and proportion. Later in his career he created many decorative panels, frescoes, and mosaics,
+        and he became involved in set and costume design for the theatre. The artist\'s autobiography, Tutta la vita di un pittore (“The Life of a Painter”),
+        was published in 1946.\n \n
+
+        [1] Martin, M., W. (1980), \'Carissimo Marinetti\: Letters from Servini to the Futurist Chief\', Art Journal, 4(41), 305-312.
+
+    </string>
+
+    <string name="giocomobio">
+
+    Giacomo Balla was born on the 18th of July in 1871. He was an art teacher and participated later in Futurism. In his art he created a pictorial depiction
+    of light, movement and speed. Born in Turin, in the Piedmont region of Italy, Balla was the son of a photographer and as a child he studied music.\n \n
+
+    At the age of 9 when his father died, he gave up music and began working in a lithograph print shop. Until age of twenty, his interest in art was such that he decided to
+    study painting at local academies and exhibited several of his early works. Following academic studies at the University of Turin, Balla moved to Rome in 1895,
+    where he met and married Elisa Marcucci. For several years he worked in Rome as an illustrator, a caricaturist, and also did portraiture. In 1899, his work was
+    shown at the Venice Biennale. \n \n
+
+    Around 1902, he taught Divisionist techniques to Umberto Boccioni and Gino Severini. Influenced by Filippo Tommaso Marinetti, Giacomo Balla adopted the
+    Futurism style, creating a pictorial depiction of light, movement and speed. He was signatory to the Futurist Manifesto in 1910, and began designing and
+    painting Futurist furniture, and also created Futurist \"antineutral\" clothing.\n \n
+
+    In painting, his new style is demonstrated in Dynamism of a Dog on a Leash (1912 and his 1914 work titled Abstract Speed and Sound (Velocità astratta +
+    rumore). In 1914, Balla also began sculpting, and the year after, created the well known sculpture, Boccioni\'s Fist.\n \n
+
+    Balla along with leading Futurists Marinetti and Bruno Carra believed Cinema had a strong role to play in the evolution of Futurism. [1] This
+    fascination with motion can be traced back to his 1904 painting The Workers Day. It in he explores the problem of motion and its relationship to
+    painting. Balla believed that the cinema experience could transcend an experience given by a painting because \"Cinematography skills kills
+    static contemplation\". He also stated \"While watching a Cinematographic performance we find ourselves watching a painting in motion which successively
+    transforms itself to reproduce a given action\".\n \n
+
+    During World War I, Balla\'s studio became the meeting place for young artists. By the end of the war, the Futurist movement showed signs of decline. In
+    1935, he was made a member of Rome\'s Accademia di San Luca. In 1955, Balla participated in the documenta 1 in Kassel, Germany. He died March 1 1958.\n \n
+
+    [1] Aiken, E. (1981), \'The Cinema and Italian Futurist Writing\', Art Journal, 4(41), 353-357. \n \n
+
+    </string>
+
+    <string name="brunobio">
+
+    Bruno Munari was born on the 24th of October , 1907, in Milan. He was an Italian artist, designer, and inventor who contributed fundamentals to many fields
+    of visual arts (painting, sculpture, film, industrial design, graphic design) in modernism, futurism, and concrete art, and in non visual arts (literature,
+    poetry) with his research on games, didactic method, movement, tactile learning, kinesthetic learning, and creativity.\n \n
+
+    Bruno Munari joined the \'Second\' Italian Futurist movement in Italy led by Filippo Tommaso Marinetti in the late 1920s. During this period, Munari
+    contributed collages to Italian magazines, some of them highly propagandist, and created sculptural works which would unfold in the coming decades
+    including his useless machines, and his abstract-geometrical works. After World War II Munari disassociated himself with Italian Futurism because of
+    its proto-Fascist connotations. \n \n
+
+    In 1948, Munari, Gillo Dorfles, Gianni Monnet and Atanasio Soldati, founded Movimento Arte Concreta (MAC), the Italian movement for concrete art. During
+    the 1940s and 1950s, Munari produced many objects for the Italian design industry, including light fixtures, ash trays, televisions, espresso machines,
+    and toys among other objects.\n \n
+
+    In his late life, Munari worried by the incorrect perception of his artistic work, which is still confused with the other genres of his activity (didactics,
+    design, graphics), selected art historian Miroslava Hajek as curator of a selection of his most important works in 1969. This collection, structured
+    chronologically, shows his continuous creativity, thematical coherence and the evolution of his esthetical philosophy throughout all of his artistic life.\n \n
+
+    Munari was also a huge contributor to the field of children\'s books and toys in his late life, though he had been producing books for children since the
+    1930s. He used textured, tactile surfaces and cut-outs to create books that teach about touch, movement, and color through kinesthetic learning. \n \n
+
+    [1] Pierpaolo, A., (2009), \'Beyond Futurism: Bruno Munari\'s Useless Machines\', Avant Garde Critical Studies, 315-336.
+
+    </string>
+
+    <string name="benedettabio">
+
+    Benedetta Cappa was born on the 14th of August 1897 in Rome [1]. She became a member of the group in 1917 while she was painting under the tutelage of Giacomo Balla in Rome.
+    In 1923 she married the group\'s founder, Filippo Tomasso Marinetti. The following year she attended the first Futurist Congress in Milan and participated
+    in exhibitions from 1927 through to the end of World War II. These exhibitions included appearances at the Venice Biennale (1926, 1930, 1934, 1936)
+    the Rome Quadrienniale. \n \n
+
+    As a writer of experimental novels and as an artist, her subjects are quintessentially Futurist. In works such as Irradiazone di un
+    nucleo in sviluppo (Irradiation of a Nucleus in Development) and Luce + rumori di treno notturno (Light + Sounds of a Nocturnal Train),fluid lines and
+    repeated abstract motifs convey velocity and motion. In the latter painting, triangular elements of metal, collaged to the surface, create a raised tactile
+    surface known as tattilismo. During the 1920s, Filippo and Benedetta developed this genre of mixed-media works intended to visually stimulate the sensory
+    experience of running one\'s fingers over a variety of surfaces.\n \n
+
+    Benedetta was also a major proponent of aeropittura (aeropainting), which often took the form of fantastic and imagined aerial views. In Incontro sull\'isola
+    (Meeting on the Island),she offers an unfettered vista of sea and shore, as if the viewer were hovering in midair. Her monumental 1934 work for the Palermo
+    post office, is a large-scale mural of five painted panels: Synthesis of Sea, Radio, Air, Rail, and Telephone and Telegraph Communications.\n \n
+
+    After her husband died [2] Benedetta stopped creating Artwork and instead focused on the preservation of the Futurist movement. This could not have been
+    an easy task considering the Futurist connections with the Facist Regime. She died in Venice in 1977 leaving a legacy that is still not fully understood.\n \n
+
+    [1] Gale, T. (2007), Marinetti, Benedetta Cappa (1987-1977) [online], available: http://bit.ly/1oZ8ZtV [accessed: 20 August 2014].\n \n
+    [2] Conaty, S., M. (2009), \'Benedetta Cappa Marinetti and the Second Wave of Futurism\', Woman\'s Art Journal, 1(30), 19-28.
+
+
+    </string>
+
+    <string name="carlobio">
+
+    [1] Carlo Carra was born on the 11th of February 1881, in Quargnento near Alessandria. He  was an Italian painter, a leading figure of the Futurist movement
+    that flourished in Italy during the beginning of the 20th century. In addition to his many paintings, he wrote a number of books concerning art. He taught
+    for many years in the city of Milan.\n \n
+
+    In 1899-1900, Carra was in Paris decorating pavilions at the Exposition Universelle, where he became acquainted with contemporary French art. He then
+    spent a few months in London in contact with exiled Italian anarchists, and returned to Milan in 1901.\n \n
+
+    In 1906, he enrolled at Brera Academy (Accademia di Brera) in the city, and studied under Cesare Tallone. In 1910 he signed, along with Umberto
+    Boccioni, Luigi Russolo and Filippo Tommaso Marinetti the Manifesto of Futurist Painters, and began a phase of painting that became his most popular
+    and influential.\n \n
+
+    [1] Carra\'s Futurist phase ended around the time World War I began. His work, while still using some Futurist concepts, began to deal more clearly with form
+    and stillness, rather than motion and feeling. Carra soon began creating still lifes in a style he, along with Giorgio de Chirico, called
+    "metaphysical painting". Throughout the 1920s and 1930s, the metaphysical phase gave way to a sombre style akin to Masaccio\'s. An example from this
+    period is his 1928 painting Morning by the Sea.\n \n
+
+    He is best known for his 1911 futurist work, The Funeral of the Anarchist Galli. Carra was indeed an anarchist as a young man but, along with many other
+    Futurists, later held more reactionary political views, becoming ultra-nationalist and irredentist before and during the war, as well as by Fascism after
+    1918 (in the 1930s, Carra signed a manifesto in which called for support of the state ideology through art). The Strapaese group he joined, founded by
+    Giorgio Morandi, was strongly influenced by fascism and responded to the neo-classical guidelines which had been set by the regime after 1937 (but was
+    opposed to the ideological drive towards strong centralism). He died in Milan in 1966. \n \n
+
+    [1] Pasqualeart (2014), Carlo Carra [online], available: http://bit.ly/1p3bWjd [accessed: 20 August 2014].\n \n
+
+    </string>
+
+    <string name="francescobio">
+
+    Francesco Balilla Pratella was born on the February 1880 in Lugo Italy. He was an Italian composer, musicologist and essayist. One of the leading advocates
+    of futurism in Italian music, much of Pratella\'s own music betrays little obvious connection to the views espoused in the manifesti he authored.\n \n
+
+    An early project drawn from Pratella\'s interest in indigenous folksong was the opera La Sina d\'Varguõn (1909), which attracted the attention of Filippo
+    Tommaso Marinetti, the father of Italian futurism. \n \n
+
+    Pratella joined the futurist group in 1910 [1] after meeting with Marinetti at a recital of Pratella\'s music in Imola. At this time he became one of the
+    movements most ardent activists, publishing three tracts which were combined into the pamphlet Musica Futurista in 1912. Pratella\'s first and second
+    concerts as a Futurist musician proved to be provocative affairs. He performed his composition Musica Futurista with a great orchestra, with all the
+    leading futurists in attendance. The second performance March the 9th proved to be a riotous affair sending the crowd into a rage as had been
+    predicted before the performance began. \n \n
+
+    Inspired by Pratella, Luigi Russolo created his Intonorumori (Noise Intoners) in 1913 and wrote his own manifesto, The Art of Noise (1913), introducing
+    the futurist concept of noise in music. Pratella was less than enthusiastic about the Intonorumori, but he agreed to utlize their resources
+    in his opera L\'aviatore Dro (1911-1914) which was written in close collaboration with Marinetti.\n \n
+
+    At the end of World War I, Pratella broke with the futurists; L\'aviatore Dro opened in 1920 and proved popular with critics and audiences alike, but its
+    impracticality and odd storyline doomed it to certain obscurity.\n \n
+
+    According to Pratella, Italian music was inferior to music abroad. He praised the "sublime genius" of Wagner and saw some value in the work of Richard
+    Strauss, Debussy, Elgar, Mussorgsky, Glazunov and Sibelius. By contrast, the Italian symphony was dominated by opera in an "absurd and anti-musical form".
+    The conservatories encouraged backwardness and mediocrity. \n \n
+
+    [1] Payton, R., J. (1976), \'The Music of Futurism: Concerts and Polemics\', The Musical Quarterly, 1(62), 25-45.
+
+    </string>
+    <string name="futurbio">
+
+    [1] Italian Futurism was officially launched in 1909 when Filippo Tommaso Marinetti, an Italian intellectual, published his “Founding and Manifesto of
+    Futurism” in the French newspaper Le Figaro. Marinetti\’s continuous leadership ensured the movement’s cohesion for three and half decades, until his
+    death in 1944.\n \n
+
+    Futurismo Manifesti allowed the movement to progress rapidly into mainstream culture and the Italian political landscape. [2] The movement remarkably
+    had little detractor\'s and was able to recruit a new generation of Futurists throughout the 1920\'s. This was helped by the circulation of Manifesti
+    through publications such as Lacerba, La Voce, L\'Italia Futurista, and Stile Futurista.\n \n
+
+    [1] To be a Futurist in the Italy of the early 20th century was to be modern, young, and insurgent. Inspired by the markers of modernity the industrial
+    city, machines, speed, and flight. Futurism’s adherents exalted the new and the disruptive. They sought to revitalize what they determined to be a
+    static, decaying culture and an impotent nation that looked to the past for its identity. Futurism began as a literary avant-garde, and the printed
+    word was vital for this group. Manifestos, words-in-freedom poems, novels, and journals were intrinsic to the dissemination of their ideas. But the
+    Futurists quickly embraced the visual and performing arts, politics, and even advertising.\n \n
+
+    [1] Futurist artists experimented with the fragmentation of
+    form, the collapsing of time and space, the depiction of dynamic motion, and dizzying perspectives. Their style evolved from fractured elements in
+    the 1910s to a mechanical language in the ’20s, and then to aerial imagery in the ’30s. No vanguard exists in a void—all are touched by their
+    historical context. The Futurists’ celebration of war as a means to remake Italy and their support of Italy’s entrance into World War I also constitute
+    part of the movement’s narrative, as does the later, complicated relationship between Futurism and Italian fascism.\n \n
+
+    [1] Guggenheim (2014), Italian Futurism Reconstructing the Universe [online], available: http://bit.ly/1c1MrJB, [accessed 18th August 2014].\n \n
+    [2] Golan, R. (2010), \'Futurism Redux\', Modernism/modernity, 1(17), 223-231.
+
+    </string>
+    <string name="fortunatobio" >
+
+    Fortunato Depero was born on the 30th of March 1892 in Fondo, Trentino. Depero grew up in Rovereto and it was here he first began exhibiting his works, while
+    serving as an apprentice to a marble worker. It was on a 1913 trip to Florence that he discovered a copy of the paper Lacerba and an article by one of
+    the founders of the futurism movement, Filippo Tommaso Marinetti.\n \n
+
+    [1] Like many of his Futurist contemporaries Depero ignored traditional divisions between the arts. He practiced painting sculpture and graphic design.
+    Depero was inspired, and in 1914 moved to Rome and met fellow futurist Giacomo Balla. It was with Balla in 1915 that he wrote the manifesto Ricostruzione
+    futurista dell\’universo ("Futurist Reconstruction of the Universe") which expanded upon the ideas introduced by the other futurists. \n \n
+
+    In 1919 Depero founded the "Casa d'Arte Futurista" (House of Futurist Art) in Rovereto, which specialised in producing toys, tapestries and furniture in
+    the futurist style. In 1925 he represented the futurists at the Exposition Internationale des Arts Décoratifs et Industriels Modernes (International
+    Exposition of Modern Industrial and Decorative Arts).\n \n
+
+    [2] While Depero never painted as compellingly as Balla, sculpted as powerfully as Boccioni, or composed as originally as Russolo, the freedom with which he
+    moved between media over the course of his five-decade career made him Futurism\’s common denominator. Indeed, his masterpiece wouldn\’t be in painting but in
+    architecture, specifically a trade fair pavilion for the 1927 Monza Biennale Internazionale delle Arti Decorative that had an immaculate white facade and
+    larger-than-life block letters for walls. \n \n
+
+    In his 1931 manifesto dell\'arte pubblicitaria he proclaimed "the art of the future will be largely advertising". This was visionary thinking for the time
+    and indeed came to fruition decades later in the advertising boom of the 50\'s and 60\'s. He returned to Roverto Italy after a stint working in the United
+    States where he pursued his idea\'s on advertising and graphics.\n \n
+
+    Fortunato achieved one of his many long term ambitions and opened the Galleria Museo Depero on in August 1959 which houses many Furutist works.
+    He died on November 29th 1960 after being ill with diabetes.\n \n
+
+    [1] Doordan D., P. (1989), \'The Advertising Architecture of Fortunato Depero\', The Journal of Decorative and Propaganda Arts, 1(12), 46-55.\n \n
+    [2] Forbes, (2009), \'Fortunato Depero\'s Italian Futurism\' [online], available: http://onforb.es/1rmTwvv, [accessed 4th August 2014].
+
+    </string>
+    <string name="brunocbio" >
+
+        Bruno Corra was born in Ravenna on the 9th of June 1892. He was a noted member of the first wave of the Italian Futurist movement. He first practiced
+        as a painter and then abandoned painting to concentrate on abstract cinema. \n \n
+
+        Bruno and his brother Arnaldo Ginna both under assumed pseudonym\'s created a book called Method and New Life in which they described a future in
+        which non-figurative painting could be combined with chromatic music.\n \n
+
+        During the period from 1910 to 1912 Bruno collaborated with his brother again this time shifting their focus to abstract short movies on which colour
+        was directly applied to untreated film frames. The Cinepitture created consisted of overlapping colours and geometric shapes accompanied by futurist
+        soundscapes. \n \n
+
+        [1] Carra believed Cinema was an important part of the Futurist aesthetic. In his 1913 manifesto The Painting of Sounds, Noises and Smells Carra
+        declared that Futurist paintings "express the plastic equivalent of the sounds, noises and smells found in theatres, music halls, and cinemas".\n \n
+
+        In 1915 he collaborated with Marinetti and Emilio Settimelli on the Manifesto of The Futurist Synthetic Theatre. In it they condemned contemporary
+        Italian Theatre of the time for being too explanatory, diluted and static. They argued for a new type of theatre that was brief and could condense
+        innumerable situations, sensibilities, and ideas into short words and gestures. \n \n
+
+        During the years after World War I he collaborated again with Marinetti and his brother Arnaldo to create the film Futurist Life although sadly
+        only a tiny proportion of the composition still exist today. To coincide with this period he co-authored the manifest of Futurist Cinema in which they
+        denounced the means in which film makers of the day communicated thought processes.\n \n
+
+        After 1917 he moved away from to Futurist movement to pursue a highly successful career as a novelist. Corra died in Varese
+        on the 20th of November 1976.\n \n
+
+       [1] Aiken, E. (1981), \'The Cinema and Italian Futurist Writing\', Art Journal, 4(41), 353-357.\n \n
+
+    </string>
+    <string name="icons" />
+    <string name="app_not_available" />
+    <string name="action_websearch" />
+    <string name="search_hint" />
+    <string name="action_map" />
+    <string name="share_menu" />
+
+</resources>
+
